@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with you on industry level projects.
 - 💬 Ask me about Flutter and Android development with Java.
 - 📫 How to reach me: 
--       Email - <a href="url">rohanjariwala03@gmail.com</a>
+-       Email - rohanjariwala03@gmail.com
 -       Linkedin- rohanjariwala03
 - 😄 Pronouns: He/His
 
