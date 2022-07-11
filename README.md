@@ -10,3 +10,5 @@
 - 😄 Pronouns: He/His
 
 <img src="https://github-readme-stats.vercel.app/api?username=rohanjariwala03&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
