@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with you on industry level projects.
 - 💬 Ask me about Flutter and Android development. 
 - 😄 Pronouns: He/His
-- 📫 How to reach me:
+- 📫 How to reach me: 
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/rohan-jariwala-44146a1aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rohan Jariwala" height="30" width="30" /></a>
 
