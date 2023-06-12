@@ -15,11 +15,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@rohanjariwala03" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="Medium" height="30" width="30" /></a>
 
-<h2 align="center">GitHub Stats:<h2>
+<!-- <h2 align="center">GitHub Stats:<h2>
 
 <p align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=rohanjariwala03&show_icons=true&theme=dracula&bg_color=30,0f0c29,302b63,24243e&title_color=fff&border_radius=14" >
-</p>
+</p> -->
 
 <h2 align="center">Contribution - Commit Streak<h2>
 
