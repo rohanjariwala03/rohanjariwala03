@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, I'm Rohan Jariwala</h1>
 
-<!--END_SECTION:waka--> 
+<!--END_SECTION:waka-->
 
 - 🔭 I’m currently working on Flutter - Dart.
 - 🌱 I’m currently learning C#. 
