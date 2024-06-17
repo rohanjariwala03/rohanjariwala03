@@ -2,7 +2,7 @@
 
 <!--END_SECTION:waka-->
 
-- 🔭 I’m currently working on Flutter - Dart.
+- 🔭 I’m currently working on Flutter - Dart. 
 - 🌱 I’m currently learning C#.
 - 👯 I’m looking to collaborate with you on industry level projects.
 - 💬 Ask me about Flutter and Android development.
