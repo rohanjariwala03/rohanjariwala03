@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, I'm Rohan Jariwala</h1> 
+<h1 align="center">Hola 👋, I'm Rohan Jariwala</h1>
 
 <!--END_SECTION:waka-->
 
