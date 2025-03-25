@@ -17,10 +17,18 @@
 <img src="https://github-readme-stats-abhishekdoshi26.vercel.app/api?username=rohanjariwala03&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
 </p>-->
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
 <h2 align="center">Contribution - Commit Streak<h2>
 
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rohanjariwala03&theme=dracula&background=0F0C29">
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rohanjariwala03" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanjariwala03&layout=compact&langs_count=8&card_width=320" />
+</a>
   
 <!--END_SECTION:waka-->
