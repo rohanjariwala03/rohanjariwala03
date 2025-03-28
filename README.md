@@ -17,12 +17,12 @@
 <img src="https://github-readme-stats-abhishekdoshi26.vercel.app/api?username=rohanjariwala03&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
 </p>-->
 
-<p align="center"> 
+<!--<p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
+  <img src="https://profile-counter.glitch.me/rohanjariwala03/count.svg" />
+</p>-->
 
-<h2 align="center">Contribution - Commit Streak<h2>
+<h2 align="center">Contribution<h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rohanjariwala03" />
