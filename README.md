@@ -10,7 +10,6 @@ Portfolio: [rohanjariwala.web.app](https://rohanjariwala.web.app)
 - A booking site and staff admin for a hair salon (React, Firebase).
 - A personal AI stock explainer, with a React web app and a Flutter iOS app.
 - A smart-home app for my iPhone that talks to Home Assistant (Expo, TypeScript).
-- A Shopify theme for a barbershop.
 - [drop_down_search_field](https://pub.dev/packages/drop_down_search_field), an autocomplete dropdown package for Flutter on pub.dev.
 
 Most of these repos are private. Happy to walk through any of them.
